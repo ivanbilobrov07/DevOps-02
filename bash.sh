@@ -1,4 +1,5 @@
 #!/bin/bash 
+#Some changes
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
